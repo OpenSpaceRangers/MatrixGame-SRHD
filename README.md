@@ -1,4 +1,4 @@
-# MatrixGame-SR2R
+# MatrixGame-SRHD
 Space Rangers HD: A War Apart - Planetary Battles Engine
 
 Build:
